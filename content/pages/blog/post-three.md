@@ -6,10 +6,6 @@ author: content/data/team/hilary-ouse.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
-featuredImage:
-  type: ImageBlock
-  url: /images/post-3.jpg
-  altText: Post Image
 bottomSections:
   - elementId: ''
     variant: variant-c
@@ -20,8 +16,16 @@ bottomSections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-56', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         textAlign: center
