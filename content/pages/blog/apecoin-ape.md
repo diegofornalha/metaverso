@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Ape CoinAPE
+title: Ape Coin APE
 date: '2022-04-19'
 excerpt: Ape CoinAPE
 bottomSections: []
