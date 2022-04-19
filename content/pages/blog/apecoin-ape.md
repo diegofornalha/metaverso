@@ -21,6 +21,4 @@ Sigla
 Lançamento
 **2022**
 
-***
-
-\*\*Site: \*\*https://boredapeyachtclub.com/
+Site:  https://boredapeyachtclub.com/
